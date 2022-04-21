@@ -12,7 +12,7 @@
 	<atom:link href="https://cadeponder.github.io/widget-wordpress_static/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cadeponder.github.io/widget-wordpress_static</link>
 	<description>My First Word Press Website</description>
-	<lastBuildDate>Thu, 21 Apr 2022 18:08:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Apr 2022 18:22:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,11 +31,17 @@
 
 					<description><![CDATA[This is my first P5.js sketch and it taught me the fundamentals of the js libraries P5 uses as well as what a bezier curve is. I tried to fill gaps in bezier curve mistakes with multiple series of points to fill spaces but it is evident I just was not coding the curves in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large"><img width="815" height="1024" src="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png" alt="" class="wp-image-11" srcset="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png 815w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-239x300.png 239w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-768x965.png 768w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-1223x1536.png 1223w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe.png 1274w" sizes="(max-width: 815px) 100vw, 815px" /><figcaption><em>A P5.js remake from the Passion Pointe paintings series </em></figcaption></figure></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:66.66%">
+<figure class="wp-block-image size-large"><img width="815" height="1024" src="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png" alt="" class="wp-image-11" srcset="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png 815w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-239x300.png 239w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-768x965.png 768w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-1223x1536.png 1223w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe.png 1274w" sizes="(max-width: 815px) 100vw, 815px" /></figure>
+</div>
 
 
 
-<p class="has-drop-cap has-primary-color has-text-color has-background has-large-font-size" style="background-color:#efefef">This is my first P5.js sketch and it taught me the fundamentals of the js libraries P5 uses as well as what a bezier curve is. I tried to fill gaps in bezier curve mistakes with multiple series of points to fill spaces but it is evident I just was not coding the curves in the best way.</p>
+<div class="wp-block-column" style="flex-basis:33.33%">
+<p class="has-drop-cap">This is my first P5.js sketch and it taught me the fundamentals of the js libraries P5 uses as well as what a bezier curve is. I tried to fill gaps in bezier curve mistakes with multiple series of points to fill spaces but it is evident I just was not coding the curves in the best way.</p>
+</div>
+</div>
 
 
 
@@ -53,7 +59,7 @@
 
 
 
-<p class="has-drop-cap has-primary-color has-text-color has-background has-large-font-size" style="background-color:#efefef">A series of lightly post-processed scans of a goat walking as part of a Muybridge photo experiment. A gif was played on my iPhone and was scanned at a certain rate to capture interesting photo &#8220;glitches&#8221; that were highlighted using photoshop. </p>
+<p class="has-drop-cap has-primary-color has-text-color" style="font-size:22px">A series of lightly post-processed scans of a goat walking as part of a Muybridge photo experiment. A gif was played on my iPhone and was scanned at a certain rate to capture interesting photo &#8220;glitches&#8221; that were highlighted using photoshop. </p>
 
 
 
@@ -61,7 +67,7 @@
 
 
 
-<p class="has-drop-cap has-primary-color has-text-color has-background has-large-font-size" style="background-color:#efefef">Quick photoshop compositions working with texture and layer masks. Typography is used to strengthen the individual theme of each series iteration while tying the series together as a whole.</p>
+<p class="has-drop-cap has-primary-color has-text-color" style="font-size:22px">Quick photoshop compositions working with texture and layer masks. Typography is used to strengthen the individual theme of each series iteration while tying the series together as a whole.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://cadeponder.github.io/widget-wordpress_static/2022/04/21/test-post/feed/</wfw:commentRss>
