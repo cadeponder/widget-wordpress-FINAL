@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>widget-admin &#8211; WordPress Widget Example</title>
+	<atom:link href="https://cadeponder.github.io/widget-wordpress_static/author/widget-admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cadeponder.github.io/widget-wordpress_static</link>
+	<description>My First Word Press Website</description>
+	<lastBuildDate>Thu, 21 Apr 2022 17:41:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Gallery of Works</title>
+		<link>https://cadeponder.github.io/widget-wordpress_static/2022/04/21/test-post/</link>
+					<comments>https://cadeponder.github.io/widget-wordpress_static/2022/04/21/test-post/#respond</comments>
+		
+		<dc:creator><![CDATA[widget-admin]]></dc:creator>
+		<pubDate>Thu, 21 Apr 2022 16:55:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://cadeponder.github.io/widget-wordpress_static/?p=10</guid>
+
+					<description><![CDATA[This is my first P5.js sketch and it taught me the fundamentals of the js libraries P5 uses as well as what a bezier curve is. I tried to fill gaps in bezier curve mistakes with multiple series of points to fill spaces but it is evident I just was not coding the curves in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img width="815" height="1024" src="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png" alt="" class="wp-image-11" srcset="https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-815x1024.png 815w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-239x300.png 239w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-768x965.png 768w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe-1223x1536.png 1223w, https://cadeponder.github.io/widget-wordpress_static/wp-content/uploads/2022/04/Passion-Pointe.png 1274w" sizes="(max-width: 815px) 100vw, 815px" /><figcaption><em>A P5.js remake from the Passion Pointe paintings series </em></figcaption></figure></div>
+
+
+
+<p class="has-drop-cap has-primary-color has-text-color has-background has-large-font-size" style="background-color:#ffe8e6">This is my first P5.js sketch and it taught me the fundamentals of the js libraries P5 uses as well as what a bezier curve is. I tried to fill gaps in bezier curve mistakes with multiple series of points to fill spaces but it is evident I just was not coding the curves in the best way.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cadeponder.github.io/widget-wordpress_static/2022/04/21/test-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
